@@ -1,0 +1,9 @@
+<use name="DataFormats/Common"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/Utilities"/>
+<use name="FWCore/Common"/>
+<use name="DataFormats/HLTReco"/>
+<use name="HLTrigger/HLTcore"/>
+<use name="root"/>
+<use name="boost"/>
